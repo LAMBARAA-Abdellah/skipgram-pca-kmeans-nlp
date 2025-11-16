@@ -38,7 +38,7 @@ Everything is fully implemented inside the final notebook:
 ---
 
 ## Result
-![Result](result.png)
+![Result](result.PNG)
 
 
 ---
