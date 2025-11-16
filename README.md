@@ -37,14 +37,9 @@ Everything is fully implemented inside the final notebook:
 
 ---
 
-## 📁 Project Structure
+## Result
+![Result](result.png)
 
-```
-📦 your-project/
- ┣ 📜 Skip-Gram + PCA + KMeans.ipynb
- ┣ 📜 README.md  ← (this file)
- ┗ 📂 data/ (optional)
-```
 
 ---
 
